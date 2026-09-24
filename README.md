@@ -87,13 +87,13 @@ This isn't just a wallpaper. Every layer of the Omarchy stack is themed:
 
 ## Screenshots
 
-> [!NOTE]
-> Work in progress — drop your captures into `assets/` and link them here.
->
-> ```text
-> assets/screenshot-terminal.png
-> assets/screenshot-desktop.png
-> ```
+### Desktop
+
+![Desktop](assets/screenshot-desktop.png)
+
+### Terminal
+
+![Terminal](assets/screenshot-terminal.png)
 
 ---
 
